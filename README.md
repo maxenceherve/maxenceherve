@@ -13,8 +13,8 @@ Former **Financial Engineer & AI Developer intern at Aurora Investment Solutions
 
 - Took full technical ownership of the firm's core pricing and portfolio platform: grew it from 4 to 13 modules and cut start-up time from ~5 minutes to near-instant
 - Rebuilt the pricing engine: closed-form Black-Scholes for vanillas, Monte Carlo (50,000 paths) for exotics — autocalls, Phoenix, Athena, barrier notes, worst-of baskets
-- Validated pricing with an independent closed-form leg decomposition (barrier options via the method of images): <0.5bp gap vs. Monte Carlo on a real certificate
-- Co-designed (with a peer intern) a Greeks module using common random numbers for reproducible, per-asset sensitivities, plus a 2nd-order Taylor P&L attribution (Delta, Gamma, Vega, Theta, Rho)
+- Validated pricing with an independent closed-form leg decomposition: <0.5bp gap vs. Monte Carlo on a real certificate
+- Designed a Greeks module using common random numbers for reproducible, per-asset sensitivities, plus a 2nd-order Taylor P&L attribution (Delta, Gamma, Vega, Theta, Rho)
 - Built an 8-product-family coupon tracker (conditional coupons, memory effect, step-down barriers) and co-designed (with a peer intern) an Opportunity Finder that screens candidate structures against client constraints
 
 ### Focus areas
